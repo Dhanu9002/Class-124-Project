@@ -1,0 +1,33 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 10px 10px 10px rgb(189, 69, 212);
+    background-color: lightcoral;
+}
+
+.note{
+    font-size: 18px;
+    color: rgb(170, 243, 170);
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: blueviolet;
+    color: darksalmon;
+    line-height: 3;
+    text-align: center;
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px palevioletred;
+}
+
+body{
+    background-image:linear-gradient(to right top,#efff97,#84ffbb,#9cf4fa,#ffb7f5,#f4f4f4);
+}
